@@ -1,3 +1,5 @@
+from random import *
+r = randint(1,5)
 class Grandparents:
     speed = 1
     sick = 'coronary heart disease'
